@@ -1,0 +1,1 @@
+Project name must start with a lowercase letter, followed by lowercase letters, digits, and dashes, with no spaces. This will be part of your project's URL and cannot be changed later.
